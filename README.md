@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game 
 
 A simple **Rock Paper Scissors** game built with **HTML**, **CSS**, and **JavaScript**. Play against the computer and track your score.
 
@@ -11,3 +11,6 @@ Pick **Rock**, **Paper**, or **Scissors**. The computer chooses randomly, and th
 - **HTML**
 - **CSS**
 - **JavaScript**
+## 🔗 Live Demo
+
+Check out the [live demo here](https://rock-paper-scissors-smarth-maliks-projects.vercel.app/).
